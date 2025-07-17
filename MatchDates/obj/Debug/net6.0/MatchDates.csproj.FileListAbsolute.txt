@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/MatchDates/bin/Debug/net6.0/MatchDates
+/Users/ivanpeshterski/Projects/MatchDates/bin/Debug/net6.0/MatchDates.deps.json
+/Users/ivanpeshterski/Projects/MatchDates/bin/Debug/net6.0/MatchDates.runtimeconfig.json
+/Users/ivanpeshterski/Projects/MatchDates/bin/Debug/net6.0/MatchDates.dll
+/Users/ivanpeshterski/Projects/MatchDates/bin/Debug/net6.0/MatchDates.pdb
+/Users/ivanpeshterski/Projects/MatchDates/obj/Debug/net6.0/MatchDates.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/MatchDates/obj/Debug/net6.0/MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/MatchDates/obj/Debug/net6.0/MatchDates.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/MatchDates/obj/Debug/net6.0/MatchDates.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/MatchDates/obj/Debug/net6.0/MatchDates.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/MatchDates/obj/Debug/net6.0/MatchDates.dll
+/Users/ivanpeshterski/Projects/MatchDates/obj/Debug/net6.0/refint/MatchDates.dll
+/Users/ivanpeshterski/Projects/MatchDates/obj/Debug/net6.0/MatchDates.pdb
+/Users/ivanpeshterski/Projects/MatchDates/obj/Debug/net6.0/MatchDates.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/MatchDates/obj/Debug/net6.0/ref/MatchDates.dll

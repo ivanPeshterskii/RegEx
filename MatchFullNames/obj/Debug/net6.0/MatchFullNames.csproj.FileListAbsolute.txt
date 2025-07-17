@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/MatchFullNames/bin/Debug/net6.0/MatchFullNames
+/Users/ivanpeshterski/Projects/MatchFullNames/bin/Debug/net6.0/MatchFullNames.deps.json
+/Users/ivanpeshterski/Projects/MatchFullNames/bin/Debug/net6.0/MatchFullNames.runtimeconfig.json
+/Users/ivanpeshterski/Projects/MatchFullNames/bin/Debug/net6.0/MatchFullNames.dll
+/Users/ivanpeshterski/Projects/MatchFullNames/bin/Debug/net6.0/MatchFullNames.pdb
+/Users/ivanpeshterski/Projects/MatchFullNames/obj/Debug/net6.0/MatchFullNames.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/MatchFullNames/obj/Debug/net6.0/MatchFullNames.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/MatchFullNames/obj/Debug/net6.0/MatchFullNames.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/MatchFullNames/obj/Debug/net6.0/MatchFullNames.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/MatchFullNames/obj/Debug/net6.0/MatchFullNames.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/MatchFullNames/obj/Debug/net6.0/MatchFullNames.dll
+/Users/ivanpeshterski/Projects/MatchFullNames/obj/Debug/net6.0/refint/MatchFullNames.dll
+/Users/ivanpeshterski/Projects/MatchFullNames/obj/Debug/net6.0/MatchFullNames.pdb
+/Users/ivanpeshterski/Projects/MatchFullNames/obj/Debug/net6.0/MatchFullNames.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/MatchFullNames/obj/Debug/net6.0/ref/MatchFullNames.dll
