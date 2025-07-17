@@ -8,8 +8,7 @@ class Program
         string input = Console.ReadLine();
 
         string pattern = @"\b(?<day>\d{2})([./-])(?<month>[A-Z][a-z]{2})\1(?<year>\d{4})\b";
-
-
+        
         Regex regex = new Regex(pattern);
 
         MatchCollection matchCollection = regex.Matches(input);
